@@ -1,0 +1,6 @@
+" Welcome to my Web Page"
+<br/>
+<?php
+print"ifconfig";
+?>
+</pre>
